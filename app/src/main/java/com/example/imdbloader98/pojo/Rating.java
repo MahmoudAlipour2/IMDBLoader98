@@ -1,5 +1,5 @@
 
-package com.example.imdbloader98.pojo;
+package com.example.imdbloader98;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
